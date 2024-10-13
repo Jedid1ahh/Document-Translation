@@ -114,4 +114,5 @@ We welcome contributions to enhance the features and functionality of this syste
 License
 This project is licensed under the MIT License.
 
+NOTE: This is a work in progress. Repo will be updated as soon as they are complete.
 Happy Translating!
